@@ -22,7 +22,6 @@ The following is the architecture of the CNN created, the information of the var
 ![Conv Architecture](https://user-images.githubusercontent.com/52412432/113432616-5231c580-93fb-11eb-9130-a3e1c7864164.png)
 
 
-We have trained three models which have given varying accuracy and this way we were able to observe and comment on how CNNs perform on different datasets. The following results
-have been observed :
+We have trained three models which have given varying accuracy and this way we were able to observe and comment on how CNNs perform on different datasets. 
 
 Later we combined the output of all models and predicted the behaviour and activity done by the dog in the input image. 
